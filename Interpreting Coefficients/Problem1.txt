@@ -7,9 +7,9 @@ have_kids -- dummy variable indicating families have children
 I'm assuming annual_income2 is the square of the annual income.
 
 Interpreting the coefficients and intercept
-For eveery US dollar increase in annual income, the spending on recreation increases by 0.0012 dollars on average.  
-For every US dollar increase in annual income the square of the spending on recreation increases by 0.00002 dollars on average.
-Families with children, on average, spend $223.57 on recreation than families without children.
+All else held constant, for eveery US dollar increase in annual income, the spending on recreation increases by 0.0012 dollars on average.  
+All else held constant, for every US dollar increase in annual income the square of the spending on recreation increases by 0.00002 dollars on average.
+All else held constant, families with children, on average, spend $223.57 on recreation than families without children.
 A family with no income and no children, on average, will spend $873 on recreation.
 
 In order to make sure the coefficients make sense statistically, I would want to know the p values from t tests.
